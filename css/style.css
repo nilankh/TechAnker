@@ -150,3 +150,16 @@ p {
     border-radius: 50%;
     margin-bottom: 1rem;
 }
+
+/* Section: Who we are */
+#who {
+    display: flex;
+}
+
+#who div {
+    flex: 1;
+}
+
+#who .who-img {
+    background: url('../img//people.jpg') no-repeat center center/cover;
+}
